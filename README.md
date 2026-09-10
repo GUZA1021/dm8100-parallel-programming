@@ -4,7 +4,6 @@ University project exploring parallel programming models: shared-memory
 parallelism with OpenMP, distributed-memory parallelism with MPI, and
 GPU acceleration with CUDA.
 
-Full write-up and benchmark results: [DM8100_Project.pdf](DM8100_Project.pdf)
 
 ## Tasks
 
